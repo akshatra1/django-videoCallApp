@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title> VideoApp | Dashboard </title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="icon" href="favicon.png">
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        text-align: center;
+        padding: 20px;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    .button-container button {
+        margin:15px;
+        width:120px;
+        height :40px;
+    }
+
+    .logout-btn{
+        margin:10px;
+        width:100px;
+        height :40px;
+        background-color:red;
+        color:white;
+        border:5px solid white;
+        border-radius: 15px ;
+    }
+    a {
+        color: #007BFF;
+        text-decoration: none;
+    }
+
+</style>
+</head>
+<body>
+  <h1>Welcome  , <b>{{ user.first_name }}</b></h1>
+ <div class="button-container">
+    <a href="{% url 'meeting' %}" >
+        <button  >New Meeting</button>
+    </a>
+    <a href="{% url 'join_room' %}" >
+    <button >Join Meeting</button>
+</a>
+ </div>
+   
+  <button  href="{% url 'logout' %}" class="logout-btn" >Logout</button>
+
+</div>
+</body>
+</html>
