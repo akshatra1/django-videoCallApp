@@ -110,3 +110,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need further assistance, feel free to contact us at akshatrauday@gmail.com.
 
 Happy coding! 🚀
+![Screenshot (21)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/90df2383-7893-4b8d-92f0-b85a3ceba1a1)
+![Screenshot (22)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/6a066f24-8b17-486a-b564-a834accb8aed)
+![Screenshot (23)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/3498d320-2ec6-44ac-8765-f1005eb8acfe)
+![Screenshot (28)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/e80364cf-9ed6-4838-ae3c-6be091b77f03)
+![Screenshot (29)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/0c0cccfd-1f8f-4534-bb14-edcae895dafb)
+![Screenshot (27)](https://github.com/akshatra1/django-videoCallApp/assets/71605280/508afc62-807e-4c9d-93c4-d3c2569da511)
+
+
